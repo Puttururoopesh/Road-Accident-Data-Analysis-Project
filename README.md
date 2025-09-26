@@ -91,6 +91,11 @@ The dashboard helps identify patterns in road accidents. It supports strategic d
 - Reducing accident severity
 
 ---
+## 📬 Contact
+
+If you liked this project or have suggestions, feel free to connect with me on [LinkedIn] (www.linkedin.com/in/puttururoopesh).
+
+---
 
 ## 👨‍💻 Author
 **Putturu Roopesh**  
